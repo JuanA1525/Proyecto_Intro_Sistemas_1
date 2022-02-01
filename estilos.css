@@ -1,0 +1,60 @@
+#BarraSup {
+    font-family:Arial;
+    font-weight:bold;
+    font-size:25px;
+}
+#sInvisible{
+
+    color: rgb(10,16,112);
+
+}
+#sTitles {
+
+    font-family:Arial;
+    font-weight:bold;
+    color: rgb(13, 3, 145);
+    font-style: italic;
+}
+#sSubtitulos{
+
+    font-family:Arial;
+    font-weight:bold;
+    color: rgb(37, 104, 248);
+
+}
+
+.separador {
+
+    color:rgb(139, 139, 139);
+}
+#BarraSup li {
+
+     display:inline;
+     padding-top: 25px;
+     padding-bottom: 25px;
+     padding-left: 10px;
+     padding-right:10px;
+     background-color:rgb(19, 0, 126);
+
+}
+a {
+
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+
+}
+a:hover {
+
+    color:rgb(0, 0, 0);
+    background-color:lightgray;
+
+}
+#sParrafos{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(202, 202, 228);
+    text-align: justify;
+    
+}
+
