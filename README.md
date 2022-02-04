@@ -1,1 +1,1 @@
-hola esto es una prueba
+este es un repositorio donde se habla de  git hub  para que es entre otras cosas .
